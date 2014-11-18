@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Angular Store</title>
+  <subtitle>Demo by Torspark</subtitle>
+  <id>http://angular.torspark.com</id>
+  <link href="http://angular.torspark.com"/>
+  <link href="http://angular.torspark.com/feed.xml" rel="self"/>
+  <author>
+    <name>Chris Olds</name>
+  </author>
+</feed>
